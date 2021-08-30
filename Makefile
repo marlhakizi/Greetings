@@ -8,5 +8,5 @@ format:
 lint:
 	pylint --disable=R,C main.py
 test:
-	python -m pytest -vv --cov=add testadd.py
+	python -m pytest -vv --cov=timing test_time.py
 all: install lint  test
