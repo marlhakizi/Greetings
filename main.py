@@ -1,4 +1,4 @@
-from flask import Flask,request
+from flask import Flask
 from flask import jsonify
 from timing import mealrec
 app = Flask(__name__)
