@@ -13,4 +13,5 @@ It was built using:
 
 -Flask
 
-https://user-images.githubusercontent.com/47464258/131768524-18fd8619-ba95-4a62-aa34-cc7b8ae4efec.png
+<img width="658" alt="Screen Shot 2021-09-01 at 9 51 53 PM" src="https://user-images.githubusercontent.com/47464258/131768717-5e3ef3e4-880a-4997-8688-5e6dfa0fba13.png">
+
