@@ -5,7 +5,7 @@ Are you always trying to pick the right time for your meals?
 
 **Greetings** is here to help you out!
 
-It is a basic web application that takes in a user input and returns the right meal time.
+It is a basic Flask application that takes in a user input and returns the right meal time.
 
 It was built using:
 
