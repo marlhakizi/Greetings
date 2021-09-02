@@ -14,4 +14,5 @@ It was built using:
 -Flask
 
 <img width="658" alt="Screen Shot 2021-09-01 at 9 51 53 PM" src="https://user-images.githubusercontent.com/47464258/131768717-5e3ef3e4-880a-4997-8688-5e6dfa0fba13.png">
+<img width="658" alt="Screen Shot 2021-09-01 at 9 55 21 PM" src="https://user-images.githubusercontent.com/47464258/131768797-39ff97a1-1d87-4ed1-9bab-f72293b17a14.png">
 
