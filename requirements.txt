@@ -3,4 +3,5 @@ pylint
 pytest
 black
 pytest-cov
+Jinja2
 requests
