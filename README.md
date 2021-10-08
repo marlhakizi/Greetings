@@ -3,7 +3,7 @@
 
 
 
-**Greetings a Flask Microservice that takes in a user input and returns the right meal time.
+**Greetings** a Flask Microservice that takes in a user input and returns the right meal time.
 
 It was built using:
 -Flask
